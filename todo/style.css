@@ -7,11 +7,11 @@ body{
     height: auto;
     margin: 0 auto;
     text-align: center;
-    background: white;
+    background : rgb(49, 176, 180);
     height: 800px;
     overflow-y: auto;
     color: black;
-    border: 10px solid #01a3a4;
+    border: 10px solid #06855f;
     border-radius: 10px;
 }
 
